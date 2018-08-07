@@ -1,0 +1,6 @@
+ETC_throttleBody1,,
+Physical Parameters,value,notes
+inertia_kgm2,2.18E-05,moment of inertia of the throttle plate and spindle 
+damping_kgm2S,1.00E+00,rotational damping of the mechanical connections
+spring_NmRad,10,throttle body spring constant
+equilibriumAngle_rad,0,equilibrium position of the spring
