@@ -1,0 +1,14 @@
+Requirements
+- Spring loaded so to return to zero position
+
+
+
+Specification
+- Throttle body butterfly valve
+
+	Inputs 
+	- force on throttle cable
+	- force from position sensor
+
+	Outputs
+	- Butterfly valve position
