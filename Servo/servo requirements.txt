@@ -1,0 +1,15 @@
+Requirements
+- position throttle valve
+- PWM variable input
+
+
+Specification 
+- unkown torque to be assigned later after simulation
+
+
+Inputs
+- PWM duty 
+- Direction
+
+Outputs
+- Servo torque
